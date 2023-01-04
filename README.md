@@ -1,2 +1,2 @@
 # cafeMenu
-its a cafe menu
+https://0xali0x.github.io/cafeMenu/
